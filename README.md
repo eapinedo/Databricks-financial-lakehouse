@@ -1,4 +1,4 @@
-# Financial Medallion Lakehouse & Audit Anomaly Pipeline (Databricks)
+# Financial Medallion Lakehouse & Audit Anomaly Pipeline
 
 End-to-end financial analytics and audit risk pipeline built on **Databricks (Unity Catalog, Delta Lake, PySpark, Spark SQL, AI/BI Dashboards)** using a synthetic multi-currency General Ledger dataset (~5,100 records).
 
