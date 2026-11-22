@@ -30,3 +30,13 @@ flowchart LR
 2. Sign up for **Databricks Free Edition** and run `CREATE VOLUME IF NOT EXISTS workspace.default.raw_finance;`.
 3. Upload the CSVs to `/Volumes/workspace/default/raw_finance/`.
 4. Run notebooks `01` through `03` in order and connect the `gold_*` tables to an AI/BI Dashboard.
+
+## 📄 License
+
+<div align="center">
+
+MIT License © <a href="https://github.com/eapinedo/Amazon-Sales/blob/main/LICENSE.txt">Emilio Pinedo</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
