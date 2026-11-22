@@ -35,7 +35,7 @@ flowchart LR
 
 <div align="center">
 
-MIT License © <a href="https://github.com/eapinedo/Amazon-Sales/blob/main/LICENSE.txt">Emilio Pinedo</a>
+MIT License © <a href="https://github.com/eapinedo/databricks-financial-lakehouse/blob/main/LICENSE.txt">Emilio Pinedo</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
