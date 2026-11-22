@@ -25,7 +25,7 @@ flowchart LR
 ## Tech Stack
 `Databricks` | `PySpark` | `Spark SQL` | `Delta Lake` | `Unity Catalog` | `Python` | `AI/BI Dashboards`
 
-## How to Reproduce (100% Free)
+## How to Reproduce
 1. Run `python src/generate_financial_data.py` to create the 3 CSV files in `sample_data/`.
 2. Sign up for **Databricks Free Edition** and run `CREATE VOLUME IF NOT EXISTS workspace.default.raw_finance;`.
 3. Upload the CSVs to `/Volumes/workspace/default/raw_finance/`.
